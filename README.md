@@ -26,6 +26,19 @@ df
 
 ### Working with data
 
+
+Create new column 
+
+Create new row 
+
+Update a row 
+
+Update column value 
+
+Update column value based on criteria
+
+
+
 Now that you have seen, basic layout of dataframe and what it looks like 
 
 
