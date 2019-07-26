@@ -33,12 +33,9 @@ Now that you have seen, basic layout of dataframe and what it looks like
 
 pd.crosstab(df.sex, df.smoker)
        
-      smoker  Yes  No
-sex        
-
-Male          60       97
-       
-Female        33       54
+|sex     |     smoker|  Yes  No|
+|ale     |     60     |  97|
+|Female   |     33   |    54|
 
 
 
