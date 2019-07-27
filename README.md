@@ -45,6 +45,17 @@ To get data types of columsn
 > df.datatypes
 
 
+To view a specific recrord by index
+
+> df.iloc[1]
+
+where 1 is the record number 
+
+
+Merge is a cool feature. 
+
+It merges data from 2 data frame and does record matching automatically.
+
 
 
 
