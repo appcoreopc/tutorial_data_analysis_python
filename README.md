@@ -26,6 +26,27 @@ df
 
 ### Working with data
 
+Fiddling with your data 
+
+
+df.columns -> you get a list of all your columns 
+
+To see specific colums 
+
+> df.tip
+
+To list first five columns 
+
+> df.head()
+
+
+To get data types of columsn 
+
+> df.datatypes
+
+
+
+
 
 Create new column 
 
