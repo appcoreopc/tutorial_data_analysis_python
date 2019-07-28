@@ -58,8 +58,12 @@ It merges data from 2 data frame and does record matching automatically.
 
 
 
-
 Create new column 
+
+To create a new column, assign a new name for it, as show in code below and it will take value "value_to_take".
+
+df["newcolumn_name"] = value_to_take
+
 
 Create new row 
 
