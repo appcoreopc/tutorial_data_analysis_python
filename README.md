@@ -64,7 +64,6 @@ When you issue this command, pandas automatically sum ups all the numerical valu
 > df.groupby(['sex']).sum()
 
 
-
 Merge is a cool feature. 
 
 It merges data from 2 data frame and does record matching automatically.
@@ -108,3 +107,24 @@ Female   |     33   |    54|
 
 seaborn.barplot(x="day", y="size", data=df)
 plot.show()
+
+
+
+### Scatter plot 
+
+
+Here, we trying to see how data distribution looks like :- 
+
+plt.scatter(df.tip. df.sex)
+plt.show()
+
+
+
+
+
+
+
+
+
+
+
