@@ -49,12 +49,13 @@ To view a specific recrord by index
 
 > df.iloc[1]
 
-where 1 is the record number 
+where 1 is the reord number 
 
 
-Select row by column condition 
+''Select row by column condition''
 
-df.loc[df['size']==10]
+>df.loc[df['size']==10]
+
 
 
 Merge is a cool feature. 
