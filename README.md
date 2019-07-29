@@ -119,7 +119,10 @@ plt.scatter(df.tip. df.sex)
 plt.show()
 
 
+### Confuson martix
 
+
+### Importance of feature 
 
 
 
