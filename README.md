@@ -57,6 +57,16 @@ where 1 is the reord number
 >df.loc[df['size']==10]
 
 
+## Other operation 
+
+Get all value in a dataframe as a numpy array
+
+> df.values 
+
+
+
+
+
 Group by 
 
 When you issue this command, pandas automatically sum ups all the numerical values group by sex. 
@@ -67,8 +77,6 @@ When you issue this command, pandas automatically sum ups all the numerical valu
 Merge is a cool feature. 
 
 It merges data from 2 data frame and does record matching automatically.
-
-
 
 
 Create new column 
