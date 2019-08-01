@@ -37,7 +37,14 @@ To see specific colums
 
 To list first five columns 
 
+
 > df.head()
+
+
+To take the top n rols 
+
+> df.head(20)
+
 
 
 To get data types of columsn 
